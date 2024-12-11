@@ -10,9 +10,7 @@ Ashe to Ashe is a horror game where our objective is to collect the fragment of 
 - [Gameplay Mechanics](#gameplay-mechanics)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 
 
